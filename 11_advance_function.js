@@ -1,4 +1,4 @@
-// Call Function in Funciton
+// Call Function in Funciton ==> advance function for java Script
 
 function add (num1, num2){
     return num1 + num2;
